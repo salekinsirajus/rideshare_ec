@@ -1,0 +1,3 @@
+RideShare is a tool intended for the Earlham community to share rides with each other. 
+Funcntionality: authenticated log in, giving ride in your car, organizing a taxi ride.
+Tools needed: facebook login, javascript, css/html, postgresql
